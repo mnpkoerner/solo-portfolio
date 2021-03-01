@@ -1,0 +1,45 @@
+body{
+  padding: 0px;
+  margin: 0px;
+  font-family: 'Oswald', sans-serif;
+}
+.photo-container{
+  width: 100%;
+  position: absolute;
+}
+.photo {
+  max-width: 100%;
+  max-height: auto;
+  padding: 0px;
+  margin: 0px;
+}
+
+.link-panel{
+  height: 25%;
+  position: fixed;
+  right: 10px;
+  top: 0px;
+  color: white;
+  text-align: right;
+  font-size: 8vw;
+}
+p{
+  padding: 10px;
+  margin: 0;
+}
+a{
+  color: white;
+  text-decoration: none;
+}
+a:hover{
+  color: rgb(255, 30, 0);
+  transition: .3s;
+}
+a:active {
+  color: white;
+  transition: .1s;
+}
+
+/* a:visited {
+  color: rgb(250, 125, 110);
+} */

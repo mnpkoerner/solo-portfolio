@@ -1,0 +1,10 @@
+
+<img className="photo" src="./images/self_port_web.png" alt="self portrait" />
+        <img className="photo" src="./images/desert.png" alt="desert" />
+        <img className="photo" src="./images/LIGHTBURST_3.png" alt="lightburst" />
+        <img className="photo" src="./images/nessBoat.png" alt="loch ness" />
+        <img className="photo" src="./images/rooster.png" alt="rooster" />
+        <img className="photo" src="./images/LIGHTBURST_4.png" alt="lightburst" />
+        <img className="photo" src="./images/truck.png" alt="self portrait" />
+        <img className="photo" src="./images/roosterPeacock.png" alt="rooster and peacock" />
+        <img className="photo" src="./images/LIGHTBURST.png" alt="lightburst" />
